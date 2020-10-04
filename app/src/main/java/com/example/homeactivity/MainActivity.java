@@ -52,6 +52,7 @@ public class MainActivity extends AppCompatActivity {
                     aSwitch.setText("Disable Dark Mode");
 
                 }
+                log.d("adding comment as jagat das");
             }
         });
 
